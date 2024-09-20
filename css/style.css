@@ -370,8 +370,8 @@ nav{
     width: 96%;
   }
 
-    .section_heading span a{
-    font-size: 1rem;
+.section_heading span a{
+    font-size: 0.9rem;
   }
     
 }
