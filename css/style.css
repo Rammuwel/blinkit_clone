@@ -369,6 +369,10 @@ nav{
   .section4_con{
     width: 96%;
   }
+
+    .section_heading span a{
+    font-size: 1rem;
+  }
     
 }
 
